@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco Di Gangi</h1>
 <h3 align="center">Artificial Intelligence and Data Analytics student @ Polito</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdg2801" alt="fdg2801" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdg2801" alt="fdg2801" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Advanced Machine Learning**
 
