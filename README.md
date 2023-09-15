@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Advanced Machine Learning**
 
-- 📝 I regularly write articles on [https://staituned.com/](https://staituned.com/)
-
 - 📫 How to reach me **francesco.digangi2801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
